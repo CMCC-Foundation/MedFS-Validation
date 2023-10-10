@@ -1,0 +1,25 @@
+{
+    "description": "Validation module of the MedFS system",
+    "title": "MedFS Validation module",
+    "license": "Apache-2.0",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Ocean Predictions and Applications Division, Centro Euro-Mediterraneo sui Cambiamenti Climatici, Italy",
+            "name": "Grandi, Alessandro",
+            "orcid": "0000-0002-7372-3184"
+        },
+        {
+            "affiliation": "Ocean Modeling and Data Assimilation Division, Centro Euro-Mediterraneo sui Cambiamenti Climatici, Italy",
+            "name": "Clementi, Emanuela",
+            "orcid": "0000-0002-5752-1849"
+        },
+        {
+            "affiliation": "Ocean Modeling and Data Assimilation Division, Centro Euro-Mediterraneo sui Cambiamenti Climatici, Italy",
+            "name": "Pistoia, Jenny",
+            "orcid": "0000-0001-9410-5425"
+        }
+    ],
+    "access_right": "open",
+    "version": "1.0"
+}
